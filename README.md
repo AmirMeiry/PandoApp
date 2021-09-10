@@ -1,71 +1,139 @@
-# Getting Started with Create React App
+# PandoApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Project Image](https://res.cloudinary.com/practicaldev/image/fetch/s--UVX7ie6K--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/v4y43jjfj7u5r8to8qdu.png)
 
-## Available Scripts
+> a simple Google Charts demonstration with React and Redux.
 
-In the project directory, you can run:
+---
 
-### `yarn start`
+### Table of Contents
+You're sections headers will be used to reference location of destination.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [Description](#description)
+- [How To Use](#how-to-use)
+- [Author Info](#author-info)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+---
 
-### `yarn test`
+## Description
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+a simple Google Charts demonstration with React and Redux.
 
-### `yarn build`
+#### Technologies
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- React
+- Redux
+- Axios
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[Back To The Top](#read-me-template)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+---
 
-### `yarn eject`
+## How To Use
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+#### API Reference
+```html
+    https://react-google-charts.com/
+```
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+#### Installation
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+#### axios installation
+```html
+    # NPM
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+    npm i axios
 
-## Learn More
+    # Yarn
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+    yarn add axios
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+#### redux installation
+```html
+    # NPM
 
-### Code Splitting
+    npm install redux
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+    # Yarn
 
-### Analyzing the Bundle Size
+    yarn add redux
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+#### react-redux installation
+```html
+    # NPM:
 
-### Making a Progressive Web App
+    npm install react-redux
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+    # Yarn:
 
-### Advanced Configuration
+    yarn add react-redux
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+#### redux-devtools-extension installation
+```html
+    # NPM:
 
-### Deployment
+    npm install --save redux-devtools-extension
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+    # Yarn:
 
-### `yarn build` fails to minify
+    yarn add redux-devtools
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# PandoApp" 
+#### redux-logger installation
+```html
+    # NPM
+
+    npm i --save redux-logger
+
+    # Yarn
+
+    yarn add redux-logger
+```
+
+#### redux-thunk installation
+```html
+    # NPM
+
+    npm install --save redux-thunk
+
+    # Yarn
+
+    yarn add redux-thunk
+```
+
+#### react-google-charts installation
+```html
+    # NPM
+
+    npm i -s react-google-charts
+
+    # Yarn
+
+    yarn add react-google-charts
+```
+
+Note : If you're using react < 16.3 then use 2.x version:
+```html
+    # Yarn
+    yarn add react-google-charts@2
+```
+
+#### npm start
+```html
+    # Terminal / CMD
+
+    npm start
+```
+
+[Back To The Top](#read-me-template)
+
+---
+
+## Author Info
+
+- Linkedin - [@amirmeiry](https://www.linkedin.com/in/amir-meiry-5aa2abb9/)
+
+[Back To The Top](#read-me-template)
