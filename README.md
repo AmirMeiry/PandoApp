@@ -43,6 +43,20 @@ a simple Google Charts demonstration with React and Redux.
 
 ## How To Use
 
+#### Fast Installation
+
+git clone the repo using
+```html
+git clone https://github.com/AmirMeiry/PandoApp.git
+```
+
+enter the git folder and type
+```html
+npm install
+```
+
+this should install all the dependencies needed to run.
+
 #### API Reference
 ```html
     https://react-google-charts.com/
