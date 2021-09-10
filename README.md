@@ -24,6 +24,19 @@ a simple Google Charts demonstration with React and Redux.
 - Redux
 - Axios
 
+### Packages
+
+| Package | Link | Version |
+| ------- | ------- | ------- |
+| **react** | [`@npmjs/package/react`](https://www.npmjs.com/package/react) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://www.npmjs.com/package/react)
+| **axios** | [`@npmjs/package/axios`](https://www.npmjs.com/package/axios) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://www.npmjs.com/package/axios)
+| **redux** | [`@redux.js`](https://redux.js.org/) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://redux.js.org/)
+| **react-redux** | [`@react-redux.js`](https://react-redux.js.org/) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://react-redux.js.org/)
+| **redux-devtools-extension** | [`@github/reduxjs/redux-devtools`](https://github.com/reduxjs/redux-devtools) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://github.com/reduxjs/redux-devtools)
+| **redux-logger** | [`@npmjs/package/redux-logger`](https://www.npmjs.com/package/redux-logger) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://www.npmjs.com/package/redux-logger)
+| **redux-thunk** | [`@npmjs/package/redux-thunk`](https://www.npmjs.com/package/redux-thunk) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://www.npmjs.com/package/redux-thunk)
+| **react-google-charts** | [`@npmjs/package/react-google-charts`](https://www.npmjs.com/package/react-google-charts) | [![version](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen)](https://www.npmjs.com/package/react-google-charts)
+
 [Back To The Top](#read-me-template)
 
 ---
@@ -36,6 +49,18 @@ a simple Google Charts demonstration with React and Redux.
 ```
 
 #### Installation
+
+#### react installation
+```html
+    # NPM
+
+    npm i react
+
+    # Yarn
+
+    yarn add react
+```
+
 
 #### axios installation
 ```html
